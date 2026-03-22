@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on: DSA, Machine Learning, and sharpening problem-solving in C++ & Python  <br>👯 I’m looking to collaborate on: Open-source, ML projects, and coding communities  <br>🤝 I’m looking for help with: Advanced DSA, ML concepts, and real-world applications  <br>🌱 I’m currently learning: Machine Learning, Competitive Programming, and core CS fundamentals  <br>💬 Ask me about: C++, Python,ML and DSA<br>⚡ Fun fact: I enjoy turning complex problems into simple, elegant solutions  
 
 
